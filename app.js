@@ -1,7 +1,5 @@
 const express = require('express');
-const {Usuario} = require("./Usuario");  
 const Post = require("./posts");
-Senha = require("./Senha");
 const { connect } = require("./db");
 Posts = require('./posts');
 const path = require('path');
